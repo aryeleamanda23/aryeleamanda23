@@ -20,4 +20,4 @@ Here are some ideas to get you started:
 </div>
 
 
-!{snake_gif{ (https://github.com/aryeleamanda23/aryeleamanda23/blob/output/github-contribuituin-grid-snake.svg)
+!{snake_gif}(https://github.com/aryeleamanda23/aryeleamanda23/blob/output/github-contribuituin-grid-snake.svg)
