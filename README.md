@@ -18,3 +18,6 @@ Here are some ideas to get you started:
   <a href="https://www.linkedin.com/in/aryeleamanda" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   
 </div>
+
+
+!{snake_gif{ (https://github.com/aryeleamanda23/aryeleamanda23/blob/output/github-contribuituin-grid-snake.svg)
